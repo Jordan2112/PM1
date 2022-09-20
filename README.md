@@ -31,5 +31,9 @@ Ya estan las imagenes
  
 * Realizar los cambios oportunos para que tanto el archivo como la carpeta sean ignorados por git. 
 
-****
+**Añadir Archivo 1.txt**
+
+* Añadir archivo 1.txt al repositorio local. 
+
+
 
