@@ -35,5 +35,13 @@ Ya estan las imagenes
 
 * Añadir archivo 1.txt al repositorio local. 
 
+**Crear el tag v0.1**
+
+* Crear un tag v0.1. 
+ 
+**Subir el tag v0.1**
+
+* Subir los cambios al repositorio remoto. 
+
 
 
