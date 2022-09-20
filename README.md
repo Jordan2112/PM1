@@ -43,5 +43,30 @@ Ya estan las imagenes
 
 * Subir los cambios al repositorio remoto. 
 
+**Crear una rama v0.2** 
+
+* Crear una rama v0.2. 
+* Posiciona tu working directory en esta rama. 
+ 
+
+**Añadir Archivo 2.txt** 
+
+* Añadir un fichero 2.txt en la rama v0.2. 
+ 
+**Crear rama remota v0.2** 
+
+* Subir los cambios al repositorio remoto. 
+
+**Merge directo** 
+
+* Posicionarse en la rama master. 
+* Hacer un merge de la rama v0.2 en la rama master. 
+
+**Merge con conflicto** 
+
+* En la rama master poner Hola en el fichero 1.txt y hacer commit. 
+* Posicionarse en la rama v0.2 y poner Adios en el archivo "1.txt" y hacer commit. 
+* Posicionarse de nuevo en la rama master y hacer un merge con la rama v0.2 
+
 
 
