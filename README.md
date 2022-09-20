@@ -19,5 +19,17 @@ Ya estan las imagenes
 
 * Añadir al README.md los comandos utilizados hasta ahora y hacer un commit inicial con el mensaje commit inicial. 
 
+**Push inicial**
+
+* Subir los cambios al repositorio remoto. 
+
+**Ignorar archivos**
+
+* Crear en el repositorio local un archivo llamado privado.txt. 
+ 
+* Crear en el repositorio local una carpeta llamada privada. 
+ 
+* Realizar los cambios oportunos para que tanto el archivo como la carpeta sean ignorados por git. 
+
 
 
