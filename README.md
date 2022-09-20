@@ -1,1 +1,23 @@
-# PM1
+## EXAMEN 
+
+**Repositorio PM1**
+
+* Crear un repositorio en vuestro GitHub llamado PM1. 
+* Clonar tu repositorio en tu entorno local. 
+
+*En esta parte se realizo el repositorio local y remoto de manera manual con la seccion de visual studio code*
+
+Ya estan las imagenes
+
+**README**
+
+* Crear (si no lo has creado aun) en tu repositorio local un documento README.md. 
+* Notas: en este documento tendrás que ir poniendo los comandos que has tenido que utilizar durante todos    los ejercicios y las explicaciones y capturas de pantalla que consideres necesarias.
+
+
+**Commit inicial** 
+
+* Añadir al README.md los comandos utilizados hasta ahora y hacer un commit inicial con el mensaje commit inicial. 
+
+
+
