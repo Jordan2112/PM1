@@ -120,4 +120,10 @@
 
 ![EX19](https://user-images.githubusercontent.com/70531734/191501371-54707a91-4dfb-4569-9100-30745dfa7373.PNG)
 
+**Cuenta de GitHub** 
+
+* Poner una foto en tu perfil de GitHub. 
+* Poner el doble factor de autentificación en tu cuenta de GitHub. 
+* Añadir (si no lo has hecho aun) la clave pública (ssh) que se corresponde a tu equipo. 
+
 
