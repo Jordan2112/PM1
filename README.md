@@ -126,4 +126,10 @@
 * Poner el doble factor de autentificación en tu cuenta de GitHub. 
 * Añadir (si no lo has hecho aun) la clave pública (ssh) que se corresponde a tu equipo. 
 
+![1](https://user-images.githubusercontent.com/70531734/191503318-ac124ba0-4a03-41a4-a144-3bf0b252b2e8.PNG)
+
+![2](https://user-images.githubusercontent.com/70531734/191503330-1e7b645b-39a4-46c6-9071-7fe8399a23de.PNG)
+![3](https://user-images.githubusercontent.com/70531734/191503343-cfffc62f-32fd-4f0c-8de7-03029a8396fa.PNG)
+
+
 
