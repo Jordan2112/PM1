@@ -131,5 +131,53 @@
 ![2](https://user-images.githubusercontent.com/70531734/191503330-1e7b645b-39a4-46c6-9071-7fe8399a23de.PNG)
 ![3](https://user-images.githubusercontent.com/70531734/191503343-cfffc62f-32fd-4f0c-8de7-03029a8396fa.PNG)
 
+**Uso social de GitHub** 
+
+* Preguntar los nombres de usuario de GitHub de tus compañeros de clase, búscalos, y síguelos. 
+* Seguir los repositorios PM1 del resto de tus compañeros. 
+* Añadir una estrella a los repositorios PM1 del resto de tus compañeros. 
+
+![4](https://user-images.githubusercontent.com/70531734/191506208-3e005c91-3fc5-4d2c-ae7a-3916c53598ab.PNG)
+
+![5](https://user-images.githubusercontent.com/70531734/191506952-804fb53a-0fea-4551-a195-6abdd5c8fa3b.PNG)
+
+**Crear una tabla** 
+
+* Crear una tabla de este estilo en el fichero README.md con la información de 3 de tus compañeros de clase:
+
+| Nombre            | Github    | 
+|-------------------|-------------|
+| Jesus Alfonso     | https://github.com/AlfonsoAD   | 
+| Cesar Castro         | https://github.com/Cesar-CCS      |
+| Martin Cabrera | https://github.com/MartinCabrera137 |
+
+**Colaboradores** 
+
+* Ponerme como colaborador del repositorio PM1 *mi usuario: jmav94 
+
+![6](https://user-images.githubusercontent.com/70531734/191508641-f75f18d8-8c4d-4cb3-8752-8e892f0cc33c.PNG)
+
+**Crear una organización**
+
+* Crear una organización llamada PM1 -tunombredeusuariodegithub 
+
+![7](https://user-images.githubusercontent.com/70531734/191509236-946e485a-aa75-4d07-af42-082b4b7c210b.PNG)
+
+
+**Crear equipos** 
+
+ 
+
+* Crear 2 equipos en la organización PM1-tunombredeusuariodegithub, uno llamado administradores con más permisos y otro colaboradores con menos permisos. 
+ 
+
+* Meterme a mí (jmav94) y a 2 de tus compañeros de clase en el equipo administradores. 
+ 
+
+* Meterme a mí y a otros 2 de tus compañeros de clase en el equipo colaboradores. 
+
+
+
+
 
 
