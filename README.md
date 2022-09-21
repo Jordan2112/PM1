@@ -16,14 +16,20 @@
 * Crear (si no lo has creado aun) en tu repositorio local un documento README.md. 
 * Notas: en este documento tendrás que ir poniendo los comandos que has tenido que utilizar durante todos    los ejercicios y las explicaciones y capturas de pantalla que consideres necesarias.
 
+![EX2](https://user-images.githubusercontent.com/70531734/191498651-28fb2ac5-8400-4b49-921a-0799885b0bce.PNG)
+
 
 **Commit inicial** 
 
 * Añadir al README.md los comandos utilizados hasta ahora y hacer un commit inicial con el mensaje commit inicial. 
+![EX3](https://user-images.githubusercontent.com/70531734/191498810-2a9634b9-6c39-401b-a5cc-b750fa3e1960.PNG)
+![EX4](https://user-images.githubusercontent.com/70531734/191498828-0b7cf9b3-8f8d-4d41-b441-f8de04729e9f.PNG)
 
 **Push inicial**
 
 * Subir los cambios al repositorio remoto. 
+
+![EX6](https://user-images.githubusercontent.com/70531734/191498867-6764d55e-2088-43e5-8876-5bba183b1e84.PNG)
 
 **Ignorar archivos**
 
@@ -33,9 +39,14 @@
  
 * Realizar los cambios oportunos para que tanto el archivo como la carpeta sean ignorados por git. 
 
+![EX9](https://user-images.githubusercontent.com/70531734/191499467-6795a911-7048-4db9-bca2-fa203e1d5e1e.PNG)
+
+
 **Añadir Archivo 1.txt**
 
 * Añadir archivo 1.txt al repositorio local. 
+
+![EX9](https://user-images.githubusercontent.com/70531734/191499467-6795a911-7048-4db9-bca2-fa203e1d5e1e.PNG)
 
 **Crear el tag v0.1**
 
@@ -45,10 +56,14 @@
 
 * Subir los cambios al repositorio remoto. 
 
+![EX10](https://user-images.githubusercontent.com/70531734/191499681-dc136075-27db-4ebf-bd4f-f321a1a8d562.PNG)
+
 **Crear una rama v0.2** 
 
 * Crear una rama v0.2. 
 * Posiciona tu working directory en esta rama. 
+
+![EX11](https://user-images.githubusercontent.com/70531734/191499833-a0b44068-9d26-4dd7-b311-a4a845486871.PNG)
  
 
 **Añadir Archivo 2.txt** 
