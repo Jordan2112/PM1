@@ -126,76 +126,10 @@
 * Poner el doble factor de autentificación en tu cuenta de GitHub. 
 * Añadir (si no lo has hecho aun) la clave pública (ssh) que se corresponde a tu equipo. 
 
-<<<<<<< HEAD
-**Uso social de GitHub** 
-
-* Preguntar los nombres de usuario de GitHub de tus compañeros de clase, búscalos, y síguelos. 
-* Seguir los repositorios PM1 del resto de tus compañeros. 
-* Añadir una estrella a los repositorios PM1 del resto de tus compañeros. 
- 
-
-**Crear una tabla** 
-
-* Crear una tabla de este estilo en el fichero README.md con la información de 3 de tus compañeros de clase: 
- 
-Colaboradores 
-
- 
-
-Ponerme como colaborador del repositorio PM1 *mi usuario: jmav94 
- 
-
-Crear una organización 
-
- 
-
-Crear una organización llamada PM1 -tunombredeusuariodegithub 
- 
-
-Crear equipos 
-
- 
-
-Crear 2 equipos en la organización PM1-tunombredeusuariodegithub, uno llamado administradores con más permisos y otro colaboradores con menos permisos. 
- 
-
-Meterme a mí (jmav94) y a 2 de tus compañeros de clase en el equipo administradores. 
- 
-
-Meterme a mí y a otros 2 de tus compañeros de clase en el equipo colaboradores. 
- 
-
-Crear un index.html 
-
- 
-
-Crear un index.html que se pueda ver como página web en la organización. 
-
- 
-
- 
-
-Crear Pull-requests 
-
- 
-
-Hacer 2 forks de 2 repositorios PM1-tunombredeusuariodegithub.github.io de 2 organizaciones de las que no seas ni administrador ni colaborador. 
-Crear una rama en cada fork. 
-En cada rama modificar el archivo index.html añadiendo tu nombre. 
-Con cada rama hacer un pull-request. 
- 
-
-Gestionar Pull-requests 
-
- 
-
-Aceptar los pull-request que lleguen a los repositorios de tu organización. 
-=======
 ![1](https://user-images.githubusercontent.com/70531734/191503318-ac124ba0-4a03-41a4-a144-3bf0b252b2e8.PNG)
 
 ![2](https://user-images.githubusercontent.com/70531734/191503330-1e7b645b-39a4-46c6-9071-7fe8399a23de.PNG)
 ![3](https://user-images.githubusercontent.com/70531734/191503343-cfffc62f-32fd-4f0c-8de7-03029a8396fa.PNG)
 
->>>>>>> ff79e8bee7e904cda1146f2eced9f91bbf9c7a8e
 
 
