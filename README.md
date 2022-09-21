@@ -68,5 +68,21 @@ Ya estan las imagenes
 * Posicionarse en la rama v0.2 y poner Adios en el archivo "1.txt" y hacer commit. 
 * Posicionarse de nuevo en la rama master y hacer un merge con la rama v0.2 
 
+**Listado de ramas** 
+
+* Listar las ramas con merge y las ramas sin merge. 
+ 
+**Arreglar conflicto** 
+
+* Arreglar el conflicto anterior y hacer un commit. 
+ 
+**Borrar rama** 
+
+* Crear un tag v0.2 
+* Borrar la rama v0.2 
+ 
+**Listado de cambios** 
+
+* Listar los distintos commits con sus ramas y sus tags. 
 
 
