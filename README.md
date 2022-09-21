@@ -74,10 +74,15 @@
 
 * Subir los cambios al repositorio remoto. 
 
+
+![EX12](https://user-images.githubusercontent.com/70531734/191500399-42dc90c9-13cc-45f0-9b65-2d6d1e8295ab.PNG)
+
 **Merge directo** 
 
 * Posicionarse en la rama master. 
 * Hacer un merge de la rama v0.2 en la rama master. 
+
+![EX13](https://user-images.githubusercontent.com/70531734/191500576-e997c0f6-7e3a-4d34-8149-6a9c888c1d44.PNG)
 
 **Merge con conflicto** 
 
@@ -85,21 +90,34 @@
 * Posicionarse en la rama v0.2 y poner Adios en el archivo "1.txt" y hacer commit. 
 * Posicionarse de nuevo en la rama master y hacer un merge con la rama v0.2 
 
+![EX16](https://user-images.githubusercontent.com/70531734/191500731-646a6956-7f6c-4f07-8d4d-22749a1e58f7.PNG)
+
+
 **Listado de ramas** 
 
 * Listar las ramas con merge y las ramas sin merge. 
+
+![EX20](https://user-images.githubusercontent.com/70531734/191501297-132fae4d-ba2b-4aed-9037-cdab16e9864a.PNG)
+
  
 **Arreglar conflicto** 
 
 * Arreglar el conflicto anterior y hacer un commit. 
+
+![EX17](https://user-images.githubusercontent.com/70531734/191501061-ef407309-36af-41b0-9df7-252584064605.PNG)
  
 **Borrar rama** 
 
 * Crear un tag v0.2 
 * Borrar la rama v0.2 
+
+![EX18](https://user-images.githubusercontent.com/70531734/191500994-c761a147-72a8-4836-8591-0e6a7712e79c.PNG)
+![EX21](https://user-images.githubusercontent.com/70531734/191501153-35805756-e673-474a-9461-edc471b0f251.PNG)
  
 **Listado de cambios** 
 
 * Listar los distintos commits con sus ramas y sus tags. 
+
+![EX19](https://user-images.githubusercontent.com/70531734/191501371-54707a91-4dfb-4569-9100-30745dfa7373.PNG)
 
 
