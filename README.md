@@ -7,7 +7,9 @@
 
 *En esta parte se realizo el repositorio local y remoto de manera manual con la seccion de visual studio code*
 
-Ya estan las imagenes
+
+
+![EX1](https://user-images.githubusercontent.com/70531734/191497646-74115623-0127-4729-888f-ef3eeb79c07f.PNG)
 
 **README**
 
